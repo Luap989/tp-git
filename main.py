@@ -1,4 +1,10 @@
 """
+Module main
+Contains the main execution code.
+"""
+
+
+"""
 Module calculator
 Contains simple arithmetic functions.
 """
@@ -14,3 +20,4 @@ def subtraction(a, b):
 def multiplication(a, b):
     """Returns the product of two numbers."""
     return a * b
+
