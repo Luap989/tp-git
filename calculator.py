@@ -1,3 +1,9 @@
+"""
+Module calculator
+Contains simple arithmetic functions.
+"""
+
+
 def addition(a, b):
     """
     Retourne la somme de deux nombres.
